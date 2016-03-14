@@ -15,3 +15,4 @@ Now open http://localhost:8080/
 
 ## Reference
 1. [Webpack React Starter](https://github.com/webpack/react-starter)
+2. [Developing with Webpack](http://survivejs.com/webpack_react/developing_with_webpack/)
