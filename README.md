@@ -12,3 +12,6 @@ webpack-dev-server --progress --colors
 ```
 
 Now open http://localhost:8080/
+
+## Reference
+1. [Webpack React Starter](https://github.com/webpack/react-starter)
